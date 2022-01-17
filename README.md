@@ -2,23 +2,24 @@
 
 ## 🤓 Course overview and learning outcomes 
 
-This assignment is going to provide us with an introduction to p5.js. The reference guide for p5 can be found in the resources at the bottom of this page.
-Add the sketch.js file into the p5 editor and the following should be produced. 
-![image](https://user-images.githubusercontent.com/67816866/149492932-036e1e09-bb2a-4edd-abe8-d1f9e1e79bf2.png)
+This assignment is going to build on from the p5-Squares assignment. In the p5 Squares assignment we created multiple squares on the canvas and possibly added some dots to respresent the faces of a dice. In this assignment, we are going to build on from this and create functions to create the dice faces for us. 
 
-* Explore p5.js and add some more shapes to the diagram. Can you use the documentation to add some more shapes to the screen? 
-* What happens when you create shapes outside the boundries of the canvas?
+You can find the documentation for functions * [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
 
-## Task 1
-* Try and create the following image in your p5 sketch. (you may want to make a new branch on github for this)
-![image](https://user-images.githubusercontent.com/67816866/149493662-7533f6b6-ca10-470f-8c11-162288010624.png)
+When you set your p5 project up with the code found on this assignment. Where can you call diceValueOne() to produce tyhe following output?
 
-## Task 2
-* Can you make the squares represent dice faces? (You should create another branch for this exercise)
+![image](https://user-images.githubusercontent.com/67816866/149764352-c4298133-e41c-4ec8-8d68-cd27077368e5.png)
 
+## Task
+Create the functions to draw the different dice faces.
+* diceValueTwo()
+* diceValueThree()
+* diceValueFour()
+* diceValueFive()
+* diceValueSix()
+* diceValueSeven()?
+* diceValueEight()?
 
 ## 📚  Resources 
-* [p5.js Reference](https://p5js.org/reference/) 
-* [p5.js Setup Function Reference](https://p5js.org/reference/#/p5/setup)
-* [p5.js Draw Function Reference](https://p5js.org/reference/#/p5/draw)
+* [p5.js Point Function Reference](https://p5js.org/reference/#/p5/point) 
 * [p5.js Square Function Reference](https://p5js.org/reference/#/p5/square)
