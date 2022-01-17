@@ -11,7 +11,9 @@ When you set your p5 project up with the code found on this assignment. Where ca
 ![image](https://user-images.githubusercontent.com/67816866/149764352-c4298133-e41c-4ec8-8d68-cd27077368e5.png)
 
 ## Task
-Create the functions to draw the different dice faces.
+Create the functions to draw the different dice faces. 
+*REMEMBER - keep regularly testing changes. How has the change effected your program?*
+
 * diceValueTwo()
 * diceValueThree()
 * diceValueFour()
