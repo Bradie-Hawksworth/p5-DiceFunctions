@@ -6,7 +6,7 @@ This assignment is going to build on from the p5-Squares assignment. In the p5 S
 
 [You can find the documentation for functions here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
 
-When you set your p5 project up with the code found on this assignment. Where can you call diceValueOne() to produce tyhe following output?
+When you set your p5 project up with the code found on this assignment. Where can you call diceValueOne() to produce the following output?
 
 ![image](https://user-images.githubusercontent.com/67816866/149764352-c4298133-e41c-4ec8-8d68-cd27077368e5.png)
 
